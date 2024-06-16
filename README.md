@@ -2,7 +2,7 @@
 
 TextUtils is a versatile web application designed to perform various text manipulation tasks on user-provided strings. With its user-friendly interface, TextUtils offers a range of utilities to efficiently transform and process text.
 
-Visit the [TextUtils page](https://msaif2729.netlify.app) for more information.
+Visit the [TextUtils page](https://msaif2729.netlify.app) . 
 
 ## Key Features
 
